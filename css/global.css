@@ -1,0 +1,42 @@
+#main_title {
+  font-family: 'Trispace', sans-serif;
+  text-align: center;
+}
+
+#my_face {
+  width: 250px;
+  margin: auto;
+  display: block;
+}
+
+.text {
+  display: block;
+  margin: auto;
+  width: 500px;
+}
+
+#description {
+  font-family: 'Trispace', sans-serif;
+  text-align: center;
+  display: block;
+}
+
+.catalogue {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+li {
+  font-family: 'Trispace', sans-serif;
+  margin-top: 5px;
+}
+
+footer {
+  margin-top: 40px;
+}
+
+p {
+  font-family: 'Trispace', sans-serif;
+  text-align: center;
+}
